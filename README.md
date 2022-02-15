@@ -1,6 +1,6 @@
 # finclubju.com (Backup Repository)
 
-This is the backup repository for the official website of Jadavpur University Finance Club (FinClub JU).
+This is the backup repository for the official website of FinClub JU.
 
 Original Repository Link : https://github.com/finclubju/finclubju.github.io
 
@@ -30,7 +30,7 @@ Project Website       : https://finclubju.com
 
 Project Details       : Website created using HTML, CSS and Bootstrap
 
-Project Purpose       : Website for Jadavpur University Finance Club (FinClub JU)
+Project Purpose       : Website for FinClub JU
 
 --------------------------------------------------------------------------------------------------------
 
